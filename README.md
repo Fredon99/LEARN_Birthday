@@ -25,7 +25,7 @@ This application mains to show the remaining days for the user.
 
 ```
 ## Application architecture
-![Texto alternativo](https://github.com/Fredon99/LEARN_Birthda/blob/main/architecture.png)
+![Architecture image](https://github.com/Fredon99/LEARN_Birthday/blob/main/architecture.png)
 
 ## Requirements
 - [Docker](https://www.docker.com/)
