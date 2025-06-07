@@ -25,12 +25,12 @@ This application mains to show the remaining days for the user.
 
 ```
 ## Application architecture
-![Architecture image](https://github.com/Fredon99/LEARN_Birthday/blob/main/architecture.png)
-
-## Requirements
 <p align="center">
   <img src="https://github.com/Fredon99/LEARN_Birthday/blob/main/architecture.png?raw=true" alt="Architecture image">
 </p>
+
+## Requirements
+- [Docker](https://www.docker.com/)
 
 ## How to run using docker compose
 ### Start
