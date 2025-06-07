@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+    <link rel="stylesheet" href="./styles/style.css">
+    <title>Birthday</title>
+</head>
+<body>
+    <main class="main__frame">
+        <h2 class="main__frame__title"> Digite a data do seu aniversário </h2>
+        <input id="date_picker" class="main__frame__input" type="date"/>
+        <button class="main__frame__button" onclick="remainingDays()">Ver dias restantes</button>
+        <p id="text" class="hidden"> Faltam "X" dias para o seu aniverário </p>
+        <img id="image" class="hidden" src="./images/bardei.jpeg" alt="Rep Bardei tiu mi">
+    </main>
+    <script src="./js/script.js"> </script>
+</body>
+</html>
