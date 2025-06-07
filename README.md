@@ -28,7 +28,9 @@ This application mains to show the remaining days for the user.
 ![Architecture image](https://github.com/Fredon99/LEARN_Birthday/blob/main/architecture.png)
 
 ## Requirements
-- [Docker](https://www.docker.com/)
+<p align="center">
+  <img src="https://github.com/Fredon99/LEARN_Birthday/blob/main/architecture.png?raw=true" alt="Architecture image">
+</p>
 
 ## How to run using docker compose
 ### Start
